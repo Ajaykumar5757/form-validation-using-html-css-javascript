@@ -18,7 +18,7 @@ function validationform(){
         return false;
     }
     else if(pnumber=="" || pnumber==null){
-        alert("cphone number should not be blank");
+        alert("phone number should not be blank");
         return false;
     }
     else if(pnumber.length!=10){
