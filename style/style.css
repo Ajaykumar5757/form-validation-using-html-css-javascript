@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(153, 238, 238);
+}
+
+.form-1{
+    max-width: 380px;
+    margin: 25px auto;
+    background-color: rgb(68, 204, 204); 
+    height:600px;
+    padding: 20px 50px;
+    border-radius: 10px;
+}
+
+input{
+    display: block;
+    margin: 10px 0px 15px;
+    width: 90%;
+    padding: 10px;
+    border-radius: 7px;
+    border: none;
+}
+
+label{
+    font-size: 18px;
+    color: black;
+}
+
+button{
+    margin-top:10px;
+    margin-left: 130px; 
+    background-color: rgb(4, 94, 96);
+    color:white;
+    padding:10px 30px;
+}
+
+button:hover{
+    background-color: rgb(156, 223, 223);
+    color: black;
+}
+
+input:focus,textarea:focus{
+    background-color: rgb(168, 226, 226);
+}
+
+textarea{
+    display: block;
+    margin:10px 0px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 90%;
+}
+
+
+
+
+
+
+
